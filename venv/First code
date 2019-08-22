@@ -1,4 +1,9 @@
 print ("Hellow World")
 
-if 4 > 2:
+if 4 > 2: #first command
     print ("Four is greater than two!")
+    """
+     This commands for second lesson 
+    i am waiting for things deeper than this :)
+    """
+
