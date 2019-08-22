@@ -1,0 +1,21 @@
+x = "Mohammed"
+y = " ahmed"
+
+print (x + y)
+
+x = "Abdullah"
+print "--------------------------------"
+print x
+#more than one variable in same line
+x , y, z = "blue" , "whait" , "black"
+
+print x
+print y
+print z
+print "------------------------------"
+
+#more than one variables in same line and same value.
+x = y = z ="blue"
+print x
+print y
+print z
