@@ -1,0 +1,16 @@
+
+
+x = "apple"
+
+y = "orange"
+
+z = "limon"
+
+print "x = " + x
+print "y = " + y
+print "z = " + z
+print "basket = x + y + z"
+
+basket = len(x) + len(y) + len(z)
+
+print "basket = " , basket
