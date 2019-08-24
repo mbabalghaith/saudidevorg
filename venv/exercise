@@ -1,4 +1,4 @@
-
+import re
 
 x = "apple"
 
@@ -9,8 +9,8 @@ z = "limon"
 print "x = " + x
 print "y = " + y
 print "z = " + z
+basket = x + y + z
 print "basket = x + y + z"
 
-basket = len(x) + len(y) + len(z)
+print basket[0:len(x)],',',basket[len(x):len(basket)-len(z)],',',basket[len(basket)-len(z):len(basket)]
 
-print "basket = " , basket
