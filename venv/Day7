@@ -1,0 +1,14 @@
+x = ''' Hallo world
+This is code for corse in python 
+ this seventh day in corse 
+  i hope this corse take us to high level 
+  in programmer we all so excited
+  thank you to every person worked on this corse '''
+
+print x
+
+print (x[5])
+
+print (x[3:9])
+
+print (x[2:10])
