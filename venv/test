@@ -1,0 +1,7 @@
+while True:
+    try:
+        x = int(raw_input("Enter numbers "))
+        print x
+        break
+    except ValueError:
+        print "input must be numbers"
