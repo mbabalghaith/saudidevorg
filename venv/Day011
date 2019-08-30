@@ -1,0 +1,21 @@
+x = 7
+
+print (x>3 or x<4)
+
+print (x > 5 and x < 6)
+
+print (not(x >3 and x < 10))
+
+print ("---------------------------")
+
+y = ['apple','orange']
+
+z = ['apple','orange']
+
+m = z
+
+print (m is not z)
+print (m is z)
+
+print ('banana' in y)
+print ('banana' not in y)
