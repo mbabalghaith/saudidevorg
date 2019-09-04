@@ -71,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Day14.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Day15.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,12 +120,13 @@
         <option value="$PROJECT_DIR$/venv/Day012" />
         <option value="$PROJECT_DIR$/venv/Day013" />
         <option value="$PROJECT_DIR$/venv/Day14.py" />
+        <option value="$PROJECT_DIR$/venv/Day15.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="840" />
-    <option name="y" value="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="836" />
+    <option name="y" value="118" />
     <option name="width" value="995" />
     <option name="height" value="910" />
   </component>
@@ -161,11 +171,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="D:/" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\" />
+      <recent name="C:\" />
       <recent name="F:\Saudidevorg\venv" />
       <recent name="F:\Saudidevorg" />
     </key>
@@ -182,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day14">
+  <component name="RunManager" selected="Python.Day15">
     <configuration name="DAY012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Saudidevorg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,19 +279,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Saudidevorg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +301,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day9" />
       <item itemvalue="Python.Day011" />
       <item itemvalue="Python.DAY012" />
       <item itemvalue="Python.Day013" />
       <item itemvalue="Python.Day14" />
+      <item itemvalue="Python.Day15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day15" />
         <item itemvalue="Python.Day14" />
         <item itemvalue="Python.Day013" />
         <item itemvalue="Python.DAY012" />
         <item itemvalue="Python.Day011" />
-        <item itemvalue="Python.Day9" />
       </list>
     </recent_temporary>
   </component>
@@ -319,15 +331,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="669" y="95" width="796" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10376735" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20685112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22804533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22651006" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,17 +429,17 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/excersice12.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DAY012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Day011">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Day14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -438,10 +450,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Day14.py">
+    <entry file="file://$PROJECT_DIR$/venv/DAY012.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Day15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
