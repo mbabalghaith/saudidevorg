@@ -1,0 +1,14 @@
+tuple1 = ('mohammed' , 'alil' , 'khalid' ,'nasser')
+tuple2 = (3,)
+print(tuple2)
+print (tuple1)
+print('-----------------')
+
+for i in tuple1:
+    print (i)
+
+print('--------------------')
+
+
+
+print (tuple1[0:2])
