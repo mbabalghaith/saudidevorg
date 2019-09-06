@@ -1,0 +1,15 @@
+list1 = ['Java' , 'Python' , 'Php' , 'C++']
+
+list1.insert(3, 'Perl')
+
+list2 = list1.copy()
+
+print (list2)
+
+print (list1.pop(2))
+print (list1)
+
+tuple = ('java' ,'python','swift')
+
+if 'python' in tuple:
+    print ('Yes python is there')
