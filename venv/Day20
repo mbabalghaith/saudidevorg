@@ -1,0 +1,19 @@
+a = {'moahmmed', 'ali','khalid'}
+
+print (a)
+
+b = {1,2,3,8,77,5,4,6,4}
+
+print (b)
+
+c = {1,'mohammed','ahmed',4,6,2,'ali'}
+print (c)
+
+if 1 in c:
+    print ('yes')
+
+a.add('fahad')
+print (a)
+
+b.update(['ali',9,10])
+print (b)
