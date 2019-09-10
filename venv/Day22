@@ -1,0 +1,14 @@
+list = {'Name': 'mohammed','age':'25','City':'Riyadh'}
+
+print (list)
+print (list.get('age'))
+
+list['City'] = 'Jeddah'
+
+print (list)
+
+for x in list:
+    print (list[x])
+
+
+print (list.items())
