@@ -1,0 +1,26 @@
+list = {'Name': 'mohammed','age':'25','City':'Riyadh'}
+
+print ('number of elements in lis : ',len(list))
+
+
+if 'mohammed' in list:
+    print ('Yes is there')
+
+
+if 'age' in list:
+    print ('Yes this is key in list')
+
+list['Major']='Computer Science'
+
+print (list)
+
+
+list.pop('age')
+
+print ('This after we removed age',list)
+
+
+
+list.clear()
+
+print ('This after clear list' , list)
