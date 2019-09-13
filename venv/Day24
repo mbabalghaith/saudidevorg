@@ -1,0 +1,24 @@
+list = {'Name': 'mohammed','age':'25','City':'Riyadh'}
+
+list2 = list.copy()
+
+print (list2)
+
+
+alllists = {'first': {'name ' : 'ali','age':'23','city':'jeddah'},'Second':{'name':'ahmed','age':'28','city':'riyahd'}}
+
+print (alllists)
+
+car1 = {'name':'Ford','Color':'red','Year':'2019'}
+
+car2 = {'name':'Mazda','Color':'silver','year':'2018'}
+
+car3 = {'name':'toyota','color':'blue','year':'2017'}
+
+allcars = {'car1': car1 , 'car2' : car2 , 'car3' : car3 }
+
+print (allcars)
+
+dicfun = dict(brand = 'Ford' , color = 'yellow' , year = '1998')
+
+print (dicfun)
