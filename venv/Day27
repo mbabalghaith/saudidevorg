@@ -1,0 +1,23 @@
+a = 400
+
+b =300
+
+c= 200
+
+d = 200
+
+if a > b:
+    print ('yes a greater than b')
+
+if c > d:
+    print ('yes c greater than d')
+
+elif c < d:
+    print ('d greater than c')
+
+else:
+    print ('They are equal')
+
+print ('a is gretest') if a > c and a > b and a > d else print ('Nooooo')
+
+print ('c ') if c > d else print ('d ') if d > c else print ('=')
