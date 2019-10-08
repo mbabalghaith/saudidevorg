@@ -1,0 +1,12 @@
+import mymodule
+
+
+a = mymodule
+
+m = input("Enter you name: ")
+
+a.greeting(m)
+
+print ('--------------')
+
+print (a.person1["age"])
